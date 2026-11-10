@@ -66,8 +66,8 @@ export default function AboutSection() {
 
         {/* Split Editorial Layout */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-center">
-          {/* Left Column: Large Image Showcase with Floating Card */}
-          <div className="lg:col-span-5 relative">
+          {/* Left Column: Large Image Showcase with Centered Floating Card */}
+          <div className="lg:col-span-5 relative mb-10 sm:mb-12 lg:mb-0">
             <div className="relative aspect-[4/5] rounded-2xl overflow-hidden border border-[#d4af37]/20 shadow-2xl">
               <Image
                 src="/images/about/about-craft.jpg"
@@ -78,8 +78,8 @@ export default function AboutSection() {
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent" />
             </div>
 
-            {/* Overlapping Floating Brand Card */}
-            <div className="absolute -bottom-6 -right-4 sm:-bottom-8 sm:-right-6 w-3/4 max-w-xs glass-card p-5 rounded-2xl border border-[#d4af37]/30 shadow-2xl backdrop-blur-xl">
+            {/* Overlapping Floating Brand Card (Centered at Bottom) */}
+            <div className="absolute -bottom-6 sm:-bottom-8 left-1/2 -translate-x-1/2 w-[90%] sm:w-[85%] max-w-xs glass-card p-5 rounded-2xl border border-[#d4af37]/35 shadow-2xl backdrop-blur-xl z-20">
               <div className="flex items-center gap-3 mb-2">
                 <div className="p-2 rounded-lg bg-[#d4af37]/20 text-[#d4af37]">
                   <Sparkles className="w-5 h-5" />
