@@ -296,3 +296,4 @@ export default function HeroCarousel() {
     </section>
   );
 }
+

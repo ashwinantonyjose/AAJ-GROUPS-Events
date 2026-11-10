@@ -82,3 +82,4 @@ export default function VideoModal({ isOpen, onClose, video }: VideoModalProps) 
     </AnimatePresence>
   );
 }
+

@@ -158,3 +158,4 @@ export const venuesData: VenueItem[] = [
     isFeatured: false
   }
 ];
+

@@ -43,3 +43,4 @@ export const faqsData: FAQItem[] = [
     answer: "While our turnkey end-to-end planning delivers the most cohesive experience, we also provide specialized standalone production packages for luxury floral stage decor, concert audiovisual production, and destination wedding coordination."
   }
 ];
+

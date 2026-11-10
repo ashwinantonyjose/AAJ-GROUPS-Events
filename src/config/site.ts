@@ -135,3 +135,4 @@ export function hasEmail(): boolean {
 export function hasAddress(): boolean {
   return Boolean(siteConfig.contact.address.street && siteConfig.contact.address.street.trim().length > 0);
 }
+

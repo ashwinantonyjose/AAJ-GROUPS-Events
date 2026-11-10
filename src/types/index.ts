@@ -111,3 +111,4 @@ export interface EnquiryFormData {
   message: string;
   preferredContact: "WhatsApp" | "Call" | "Email";
 }
+

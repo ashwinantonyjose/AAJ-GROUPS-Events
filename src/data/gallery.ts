@@ -98,3 +98,4 @@ export const galleryData: GalleryItem[] = [
     aspect: "portrait"
   }
 ];
+
