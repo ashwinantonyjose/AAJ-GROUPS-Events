@@ -66,39 +66,39 @@ export default function AboutSection() {
 
         {/* Split Editorial Layout */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-center">
-          {/* Left Column: Large Image Showcase with Centered Floating Card */}
-          <div className="lg:col-span-5 relative mb-10 sm:mb-12 lg:mb-0">
-            <div className="relative aspect-[4/5] rounded-2xl overflow-hidden border border-[#d4af37]/20 shadow-2xl">
+          {/* Left Column: Large Image Showcase with Card Placed INSIDE at Bottom Center */}
+          <div className="lg:col-span-5 relative">
+            <div className="relative aspect-[4/5] rounded-3xl overflow-hidden border border-[#d4af37]/30 shadow-2xl">
               <Image
                 src="/images/about/about-craft.jpg"
                 alt="AAJ GROUPS Event Craftsmanship"
                 fill
                 className="object-cover"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent" />
-            </div>
+              <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/30 to-transparent" />
 
-            {/* Overlapping Floating Brand Card (Centered at Bottom) */}
-            <div className="absolute -bottom-6 sm:-bottom-8 left-1/2 -translate-x-1/2 w-[90%] sm:w-[85%] max-w-xs glass-card p-5 rounded-2xl border border-[#d4af37]/35 shadow-2xl backdrop-blur-xl z-20">
-              <div className="flex items-center gap-3 mb-2">
-                <div className="p-2 rounded-lg bg-[#d4af37]/20 text-[#d4af37]">
-                  <Sparkles className="w-5 h-5" />
+              {/* Brand Card Placed Directly INSIDE the Image at the Bottom Center */}
+              <div className="absolute bottom-5 sm:bottom-6 left-1/2 -translate-x-1/2 w-[90%] sm:w-[86%] max-w-sm glass-card p-4 sm:p-5 rounded-2xl border border-[#d4af37]/40 shadow-2xl backdrop-blur-xl z-10">
+                <div className="flex items-center gap-3 mb-2">
+                  <div className="p-2 rounded-lg bg-[#d4af37]/20 text-[#d4af37]">
+                    <Sparkles className="w-5 h-5" />
+                  </div>
+                  <div>
+                    <p className="text-[11px] uppercase tracking-wider text-[#d4af37] font-semibold">
+                      Core Philosophy
+                    </p>
+                    <p className="text-sm font-semibold text-white">
+                      Experience & Emotion
+                    </p>
+                  </div>
                 </div>
-                <div>
-                  <p className="text-[11px] uppercase tracking-wider text-[#d4af37] font-semibold">
-                    Core Philosophy
-                  </p>
-                  <p className="text-sm font-semibold text-white">
-                    Experience & Emotion
-                  </p>
+                <p className="text-xs text-zinc-300 italic leading-snug">
+                  &ldquo;{siteConfig.tagline}&rdquo;
+                </p>
+                <div className="mt-3 pt-3 border-t border-white/10 flex items-center justify-between text-[11px] text-zinc-400">
+                  <span>Director:</span>
+                  <span className="text-white font-medium">{siteConfig.contactPerson}</span>
                 </div>
-              </div>
-              <p className="text-xs text-zinc-300 italic leading-snug">
-                &ldquo;{siteConfig.tagline}&rdquo;
-              </p>
-              <div className="mt-3 pt-3 border-t border-white/10 flex items-center justify-between text-[11px] text-zinc-400">
-                <span>Director:</span>
-                <span className="text-white font-medium">{siteConfig.contactPerson}</span>
               </div>
             </div>
           </div>
