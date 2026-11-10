@@ -61,7 +61,7 @@ export const siteConfig: SiteConfig = {
     phone: "", // e.g. "+91 98470 00000"
     phoneDisplay: "", // e.g. "+91 98470 00000"
     whatsapp: "", // e.g. "919847000000" (digits only for https://wa.me/...)
-    email: "", // e.g. "hello@aajgroups.com"
+    email: "ashwinantonyjose28@gmail.com", // Public enquiry contact email
     address: {
       street: "",
       city: "Kochi",

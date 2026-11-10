@@ -5,6 +5,7 @@ import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import FloatingActions from "@/components/layout/FloatingActions";
 import ScrollProgress from "@/components/layout/ScrollProgress";
+import CookieConsent from "@/components/layout/CookieConsent";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
