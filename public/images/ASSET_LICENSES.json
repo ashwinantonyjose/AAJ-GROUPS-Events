@@ -1,0 +1,247 @@
+{
+  "source": "Unsplash Royalty-Free License (Commercial and non-commercial usage permitted)",
+  "license_url": "https://unsplash.com/license",
+  "last_updated": "2026-11-10T16:33:43.418Z",
+  "assets": [
+    {
+      "file": "public/images/hero/hero-kerala-wedding.jpg",
+      "alt": "Luxury Kerala Indian Wedding Floral Stage and Mandap Decor",
+      "author": "Photos by Lanty / Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=2000&q=85"
+    },
+    {
+      "file": "public/images/hero/hero-beach-wedding.jpg",
+      "alt": "Romantic Coastal Beach Wedding Mandap at Sunset in Kerala",
+      "author": "Asad Photo Maldives / Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1544078751-58fee2d8a03b?auto=format&fit=crop&w=2000&q=85"
+    },
+    {
+      "file": "public/images/hero/hero-grand-reception.jpg",
+      "alt": "Grand Luxury Wedding Reception Ballroom with Crystal Chandeliers",
+      "author": "Al Elmes / Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=2000&q=85"
+    },
+    {
+      "file": "public/images/hero/hero-floral-stage.jpg",
+      "alt": "Lavish Floral Stage Decoration with Warm Ambient Illumination",
+      "author": "Jeremy Wong / Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=2000&q=85"
+    },
+    {
+      "file": "public/images/hero/hero-corporate-event.jpg",
+      "alt": "Premium Corporate Conference and Keynote Stage Lighting",
+      "author": "Alexandre Pellaes / Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=2000&q=85"
+    },
+    {
+      "file": "public/images/hero/hero-birthday-party.jpg",
+      "alt": "Bespoke Evening Celebration with Champagne and Golden Lights",
+      "author": "Chuttersnap / Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?auto=format&fit=crop&w=2000&q=85"
+    },
+    {
+      "file": "public/images/services/wedding-planning.jpg",
+      "alt": "Complete Traditional Indian and Modern Wedding Planning",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/destination-weddings.jpg",
+      "alt": "Kerala Backwaters & Luxury Resort Destination Weddings",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1545232979-8bf68ee9b1af?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/beach-weddings.jpg",
+      "alt": "Oceanfront Beach Weddings in Kovalam and Varkala",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/corporate-events.jpg",
+      "alt": "High-Impact Corporate Galas, Annual Meets & Summits",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/birthday-parties.jpg",
+      "alt": "Milestone Birthday Celebrations & Curated Themes",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/engagement-reception.jpg",
+      "alt": "Engagement Ceremonies and Grand Receptions",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/music-entertainment.jpg",
+      "alt": "Live Bands, Celebrity Artists & DJ Entertainment",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/stage-shows.jpg",
+      "alt": "Spectacular Stage Shows & Live Cultural Performances",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/photography-videography.jpg",
+      "alt": "Cinematic Wedding Films & Editorial Photography",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/catering-services.jpg",
+      "alt": "Authentic Kerala Sadya & Multi-Cuisine Gourmet Buffets",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1555244162-803834f70033?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/private-parties.jpg",
+      "alt": "Intimate Family Gatherings, Anniversaries & Cocktail Soirées",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/inaugurations-launches.jpg",
+      "alt": "Grand Commercial Inaugurations & Brand Launches",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/conferences-exhibitions.jpg",
+      "alt": "Industry Trade Expos, Seminars & Business Conclaves",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/services/college-cultural.jpg",
+      "alt": "Youth Festivals, Inter-College Cultural Fests & Pro-Nites",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/venues/venue-kumarakom-backwaters.jpg",
+      "alt": "Luxury Backwater Lake Resort in Kumarakom / Alleppey",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/venues/venue-bolgatty-palace.jpg",
+      "alt": "Historic Waterfront Island Palace Resort in Kochi",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/venues/venue-kovalam-cliff.jpg",
+      "alt": "Dramatic Sea Cliff Wedding Lawn in Kovalam",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/venues/venue-munnar-hills.jpg",
+      "alt": "Misty Tea Plantation Valley Venue in Munnar",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/venues/venue-kochi-grand-convention.jpg",
+      "alt": "Ultra-Modern Pillarless Grand Ballroom in Ernakulam",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/venues/venue-wayanad-rainforest.jpg",
+      "alt": "Serene Forest Eco-Luxury Haven in Wayanad",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/gallery/gallery-01.jpg",
+      "alt": "Beach Mandap Floral Canopy",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1544078751-58fee2d8a03b?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "file": "public/images/gallery/gallery-02.jpg",
+      "alt": "Traditional Brass Lamps & Floral Aisle",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "file": "public/images/gallery/gallery-03.jpg",
+      "alt": "Grand Reception Table Decor",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "file": "public/images/gallery/gallery-04.jpg",
+      "alt": "Live Concert Stage Lighting",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "file": "public/images/gallery/gallery-05.jpg",
+      "alt": "Corporate Summit Production",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "file": "public/images/gallery/gallery-06.jpg",
+      "alt": "Festive Outdoor Celebration",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "file": "public/images/gallery/gallery-07.jpg",
+      "alt": "Floral Archway & Seating Design",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "file": "public/images/gallery/gallery-08.jpg",
+      "alt": "Artisanal Catering & Gourmet Setup",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1555244162-803834f70033?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "file": "public/images/gallery/gallery-09.jpg",
+      "alt": "Intimate Ceremony Moments",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "file": "public/images/gallery/gallery-10.jpg",
+      "alt": "Theatrical Stage Lighting & Visuals",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "file": "public/images/gallery/gallery-11.jpg",
+      "alt": "Party Ambience & Balloon Artistry",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "file": "public/images/gallery/gallery-12.jpg",
+      "alt": "Couple Portrait under Fairy Lights",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "file": "public/images/about/about-craft.jpg",
+      "alt": "AAJ GROUPS Event Design Excellence",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "file": "public/images/about/about-founder.jpg",
+      "alt": "Ashwin Antony Jose - AAJ GROUPS Leadership",
+      "author": "Unsplash",
+      "source_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=80"
+    }
+  ]
+}
